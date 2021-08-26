@@ -1,5 +1,12 @@
 import React from 'react';
+import Header from '../app/pages/Header.jsx'
+import Body from '../app/pages/Body.jsx'
 
 export default function App() {
-  return <h1>Hello World</h1>;
+  return (
+    <>
+    <Header /> 
+    <Body />
+    </>
+  )
 }

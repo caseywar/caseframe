@@ -1,0 +1,34 @@
+.button {
+    border: outset 0.5rem #78bb64a4;
+    margin: 5px;
+    padding: 6px;
+    background-color: #78bb64b3;
+    font-size: 90%;
+}
+
+.buttonContainer {
+    padding: 30px;
+    border: outset 0.5rem #79bb64;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    background-color: #78bb644f;
+}
+
+.buttonBox {
+    border: outset 0.5rem #27671497;
+    height: 50px;
+    width: 110px;
+    display: flex;
+    justify-content: center;
+    background-color: #4e8c3b;
+}
+
+body {
+    background-color: #488037;
+}
+
+.caseName {
+    padding-right: 60%;
+}
