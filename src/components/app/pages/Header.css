@@ -2,12 +2,13 @@
     border: outset 0.5rem #78bb64a4;
     margin: 5px;
     padding: 6px;
-    background-color: #78bb64b3;
+    background-color: #78bb6461;
     font-size: 90%;
 }
 
 .headerContainer {
     border: outset 0.5rem #79bb64;
+    opacity: 0.9;
     list-style-type: none;
     display: flex;
     flex-direction: row;
@@ -34,7 +35,7 @@
     width: 110px;
     display: flex;
     justify-content: center;
-    background-color: #4e8c3b;
+    background-color: #4e8c3b7e;
 }
 
 body {

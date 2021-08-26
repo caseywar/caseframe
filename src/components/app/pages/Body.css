@@ -1,5 +1,6 @@
 .bodyOuterDiv {
-    background-color: rgba(216, 216, 216, 0.728);
+    background-color: rgb(216, 216, 216);
+    opacity: 0.85;
     margin-right: 250px;
     margin-left: 250px;
     height: 600px;
@@ -13,6 +14,7 @@
     text-align: center;
     height: 400px;
     background-color: rgba(216, 216, 216, 0.728);
+    opacity: 0.8;
     border: outset 0.3rem;
     margin-right: 20px;
     margin-left: 20px;
