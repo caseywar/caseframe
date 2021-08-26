@@ -1,0 +1,23 @@
+.bodyOuterDiv {
+    background-color: rgba(216, 216, 216, 0.728);
+    margin-right: 250px;
+    margin-left: 250px;
+    height: 600px;
+    border: outset 0.3rem;
+}
+
+.textBox {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 400px;
+    background-color: rgba(216, 216, 216, 0.728);
+    border: outset 0.3rem;
+    margin-right: 20px;
+    margin-left: 20px;
+    height: 550px;
+    margin-top: 20px;
+
+
+}
