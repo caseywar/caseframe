@@ -5,7 +5,7 @@ const MyCode = () => {
     return (
         <div className={style.bodyOuterDiv}>
             <img
-            src='../../../../public/assets/resume2022.png'
+            src='/assets/resume2022.png'
             alt='casey warrens resume' />
         </div>
     )
