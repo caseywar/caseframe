@@ -12,15 +12,15 @@ const Header = () => {
                     <div className={style.buttonContainer}>
                     <div className={style.buttonBox}>
                         <a className={style.button}
-                        href="/about"
+                        href="/"
                         >
-                            About Me
+                            Home
                         </a>
                     </div>
                     <div className={style.buttonBox}>
 
                         <a className={style.button}
-                        href="/about"
+                        href="/mycode"
                         >
                             My Code
                         </a>
@@ -28,7 +28,7 @@ const Header = () => {
                         <div className={style.buttonBox}>
 
                         <a className={style.button}
-                        href="/about"
+                        href="/resume"
                         >
                             Resume
                         </a>
